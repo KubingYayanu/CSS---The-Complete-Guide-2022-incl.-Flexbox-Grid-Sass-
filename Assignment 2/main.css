@@ -1,0 +1,17 @@
+div:last-of-type:hover {
+  border-color: green;
+}
+
+.box {
+  padding: 5px;
+  border: 2px solid red;
+  margin: 10px;
+  display: inline-block;
+  height: 300px;
+  width: 48%;
+  box-sizing: border-box;
+}
+
+.first-box {
+  display: none;
+}
